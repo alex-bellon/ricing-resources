@@ -37,19 +37,18 @@
 - [`vim`](https://github.com/vim/vim) - terminal based editor
 - [Vundle](https://github.com/VundleVim/Vundle.vim) - plugin manager for `vim`
 - `vim` plugins
-  - [colorizer](https://github.com/lilydjwg/colorizer)
-  - [ctrlp](https://github.com/ctrlpvim/ctrlp.vim)
-  - [goyo](https://github.com/junegunn/goyo.vim)
-  - [i3config](https://github.com/mboughaba/i3config.vim)
-  - [nerdtree](https://github.com/scrooloose/nerdtree)
-  - [syntastic](https://github.com/scrooloose/syntastic)
-  - [tabular](https://github.com/godlygeek/tabular)
-  - [vim-eunuch](https://github.com/tpope/vim-eunuch)
-  - [vim-illuminate](https://github.com/RRethy/vim-illuminate)
-  - [vim-markdown](https://github.com/plasticboy/vim-markdown)
-  - [vim-surround](https://github.com/tpope/vim-surround)
-  - [Vundle](https://github.com/VundleVim/Vundle.vim)
-  - [wal](https://github.com/dylanaraps/wal.vim)
+  - [colorizer](https://github.com/lilydjwg/colorizer) - colorizes text in the form `#rrggbb` or `#rgb`
+  - [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) - fuzzy finder for `vim`
+  - [goyo](https://github.com/junegunn/goyo.vim) - add margins on all sides of text to increase focus
+  - [i3config](https://github.com/mboughaba/i3config.vim) - syntax highlighting for i3 config files
+  - [nerdtree](https://github.com/scrooloose/nerdtree) - tree file explorer in `vim`
+  - [syntastic](https://github.com/scrooloose/syntastic) - syntax checking plugin
+  - [tabular](https://github.com/godlygeek/tabular) - text alignment tool
+  - [vim-eunuch](https://github.com/tpope/vim-eunuch) - use UNIX commands from `vim`
+  - [vim-illuminate](https://github.com/RRethy/vim-illuminate) - highlight all occurences of a word
+  - [vim-markdown](https://github.com/plasticboy/vim-markdown) - syntax highlighting for Markdown
+  - [vim-surround](https://github.com/tpope/vim-surround) - tools to help surround things with parentheses, quotes, tags, etc.
+  - [wal](https://github.com/dylanaraps/wal.vim) - use `wal` colorscheme for `vim`
 
 ## Window Manager/Switcher
 
