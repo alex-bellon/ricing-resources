@@ -17,6 +17,7 @@
 
 ### Programs
 
+- neofetch
 - [thefuck](https://github.com/nvbn/thefuck) - like autocorrect for terminal commands (also, you can change the keyword to something other than the f-bomb :smile:)
 
 ### `zsh`
