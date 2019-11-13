@@ -50,6 +50,7 @@
   - [vim-markdown](https://github.com/plasticboy/vim-markdown) - syntax highlighting for Markdown
   - [vim-surround](https://github.com/tpope/vim-surround) - tools to help surround things with parentheses, quotes, tags, etc.
   - [wal](https://github.com/dylanaraps/wal.vim) - use `wal` colorscheme for `vim`
+- [Vivify](http://bytefluent.com/vivify/) - Color scheme editor
 
 ## Window Manager/Switcher
 
