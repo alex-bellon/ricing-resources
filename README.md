@@ -7,6 +7,7 @@
 - [userChrome.css](https://www.userchrome.org/)
   - [How to create a userChrome.css file](https://www.userchrome.org/how-create-userchrome-css.html)
   - [r/FirefoxCSS](https://www.reddit.com/r/FirefoxCSS/)
+- [Pywalfox](https://github.com/Frewacom/Pywalfox) - sync `wal` colors to Firefox
 
 ## Dotfiles
 
@@ -57,6 +58,15 @@
 ### GTK2/3
 
 - Use [`lxappearance`](https://wiki.lxde.org/en/LXAppearance) and `gtk-chtheme` on i3. [Source](https://askubuntu.com/questions/598943/how-to-de-uglify-i3-wm)
+
+### `wal`
+
+- [Pywal](https://github.com/dylanaraps/pywal) - Tool that generates color schemes (for X, i3, etc.) from wallpapers
+  - [Pywalfox](https://github.com/Frewacom/Pywalfox) - syncs `wal` color scheme to Firefox
+
+### X
+
+- You can edit `.Xdefaults`/`.Xresources` to change settings for X, most notably `urxvt` (in my case)
 
 ## Window Manager/Switcher
 
