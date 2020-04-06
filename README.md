@@ -1,5 +1,16 @@
 # Ricing Resources
 
+## Apps
+
+### Discord
+- [Install BetterDiscord](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172) to enable theming and custom CSS
+- [Install Glasscord](https://github.com/AryToNeX/Glasscord) for transparent discord
+
+### Spotify
+- [Spicetify](https://github.com/khanhas/spicetify-cli) lets you customize colors
+    - On Manjaro, be sure to run `sudo chmod -R 777 /opt/spotify` before running `spicetify backup apply enable-devtool`
+    - Add new themes to `~/.config/spicetify/Themes/<name>` and change `current_theme = <name>` in `~/.config/spicetify/config.ini`
+
 ## Browser
 
 ### Firefox
@@ -54,6 +65,12 @@
   - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Highlight syntax on the command line
 
 ## Theming
+
+### `compton`
+
+- Useful for adding blur/transparency, drop shadow, and more. 
+    - See my [config](https://github.com/alex-bellon/dotfiles/blob/master/compton/.compton.conf) for more examples
+- Use the `tryone` fork on AUR to get blur working. 
 
 ### GTK2/3
 
