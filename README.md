@@ -14,20 +14,18 @@
 ## Browser
 
 ### Firefox
-
 - [userChrome.css](https://www.userchrome.org/)
   - [How to create a userChrome.css file](https://www.userchrome.org/how-create-userchrome-css.html)
   - [r/FirefoxCSS](https://www.reddit.com/r/FirefoxCSS/)
 - [Pywalfox](https://github.com/Frewacom/Pywalfox) - sync `wal` colors to Firefox
 
 ## Dotfiles
-
 - [Dotfiles on GitHub](https://dotfiles.github.io/)
 - [Manage dotfiles with GNU `stow`](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
 
 ## Editors
-### `vim`
 
+### `vim`
 - [`vim`](https://github.com/vim/vim) - terminal based editor
 - [Vundle](https://github.com/VundleVim/Vundle.vim) - plugin manager for `vim`
 - `vim` plugins
@@ -41,6 +39,9 @@
   - [vim-eunuch](https://github.com/tpope/vim-eunuch) - use UNIX commands from `vim`
   - [vim-illuminate](https://github.com/RRethy/vim-illuminate) - highlight all occurences of a word
   - [vim-markdown](https://github.com/plasticboy/vim-markdown) - syntax highlighting for Markdown
+  - [vim-medieval](https://github.com/gpanders/vim-medieval) - Evaluate Markdown code blocks within Vim
+  - [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
+  - [vimwiki](https://github.com/vimwiki/vimwiki) - a personal wiki for Vim -- a number of linked text files that have their own syntax highlighting.
   - [vim-surround](https://github.com/tpope/vim-surround) - tools to help surround things with parentheses, quotes, tags, etc.
   - [wal](https://github.com/dylanaraps/wal.vim) - use `wal` colorscheme for `vim`
 - [Vivify](http://bytefluent.com/vivify/) - Color scheme editor
@@ -68,9 +69,9 @@
 
 ### `compton`
 
-- Useful for adding blur/transparency, drop shadow, and more. 
+- Useful for adding blur/transparency, drop shadow, and more.
     - See my [config](https://github.com/alex-bellon/dotfiles/blob/master/compton/.compton.conf) for more examples
-- Use the `tryone` fork on AUR to get blur working. 
+- Use the `tryone` fork on AUR to get blur working.
 
 ### GTK2/3
 
