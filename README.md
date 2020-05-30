@@ -36,13 +36,15 @@
   - [nerdtree](https://github.com/scrooloose/nerdtree) - tree file explorer in `vim`
   - [syntastic](https://github.com/scrooloose/syntastic) - syntax checking plugin
   - [tabular](https://github.com/godlygeek/tabular) - text alignment tool
+  - [UltiSnips](https://github.com/SirVer/ultisnips) - UltiSnips is the ultimate solution for snippets in Vim. It has many features, speed being one of them.
   - [vim-eunuch](https://github.com/tpope/vim-eunuch) - use UNIX commands from `vim`
   - [vim-illuminate](https://github.com/RRethy/vim-illuminate) - highlight all occurences of a word
   - [vim-markdown](https://github.com/plasticboy/vim-markdown) - syntax highlighting for Markdown
   - [vim-medieval](https://github.com/gpanders/vim-medieval) - Evaluate Markdown code blocks within Vim
   - [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
-  - [vimwiki](https://github.com/vimwiki/vimwiki) - a personal wiki for Vim -- a number of linked text files that have their own syntax highlighting.
   - [vim-surround](https://github.com/tpope/vim-surround) - tools to help surround things with parentheses, quotes, tags, etc.
+  - [vimtex](https://github.com/lervag/vimtex)
+  - [vimwiki](https://github.com/vimwiki/vimwiki) - a personal wiki for Vim -- a number of linked text files that have their own syntax highlighting.
   - [wal](https://github.com/dylanaraps/wal.vim) - use `wal` colorscheme for `vim`
 - [Vivify](http://bytefluent.com/vivify/) - Color scheme editor
 
