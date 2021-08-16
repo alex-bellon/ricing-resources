@@ -75,6 +75,9 @@
 
 ## Theming
 
+- [Gogh](https://mayccoll.github.io/Gogh/) - Collection of terminal color schemes
+- [Terminal.sexy](https://terminal.sexy/) - Tool to create terminal color schemes
+
 ### `compton`
 
 - Useful for adding blur/transparency, drop shadow, and more.
