@@ -61,6 +61,10 @@
 - neofetch
 - [thefuck](https://github.com/nvbn/thefuck) - like autocorrect for terminal commands (also, you can change the keyword to something other than the f-bomb :smile:)
 
+### `tmux`
+- [Making `tmux` pretty and usable](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
+- [The greatest `tmux.conf` ever](https://gist.github.com/spicycode/1229612)
+
 ### `zsh`
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Framework for the `zsh` shell that easily enables different themes and plugins
   - [Punctual theme](https://github.com/dannynimmo/punctual-zsh-theme)
