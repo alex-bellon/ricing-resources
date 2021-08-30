@@ -31,6 +31,12 @@
 
 ## Editors
 
+### Atom
+- Plugins
+  - `autocomplete-date`
+  - `autocomplete-latex`
+  - `latex-autocomplete`
+
 ### `vim`
 - [`vim`](https://github.com/vim/vim) - terminal based editor
 - [Vundle](https://github.com/VundleVim/Vundle.vim) - plugin manager for `vim`
