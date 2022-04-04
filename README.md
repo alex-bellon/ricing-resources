@@ -55,6 +55,7 @@
   - [vim-medieval](https://github.com/gpanders/vim-medieval) - Evaluate Markdown code blocks within Vim
   - [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
   - [vim-surround](https://github.com/tpope/vim-surround) - tools to help surround things with parentheses, quotes, tags, etc.
+  - [vim-visual-multi](https://github.com/mg979/vim-visual-multi) -  Multiple cursors plugin for vim/neovim 
   - [vimtex](https://github.com/lervag/vimtex)
   - [vimwiki](https://github.com/vimwiki/vimwiki) - a personal wiki for Vim -- a number of linked text files that have their own syntax highlighting.
   - [wal](https://github.com/dylanaraps/wal.vim) - use `wal` colorscheme for `vim`
